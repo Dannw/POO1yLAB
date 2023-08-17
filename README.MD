@@ -1,4 +1,4 @@
-# Programación Orientada a objetos 1 y Lab
+# Programación Orientada a objetos 1 y Laboratorio
 - Nombre: Daniel Varela García
 - Correo: Danielvarelaxwx@gmail.com
 ## Actividad 1
