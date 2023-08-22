@@ -1,5 +1,7 @@
 // Calcular la paga de un trabajador
 
+import java.util.Scanner;
+
 public class _p04_PagaTrabajador {
     public static void main(string[] args) {
         String nombre;
