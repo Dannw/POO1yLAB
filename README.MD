@@ -12,10 +12,16 @@
 - _P07_OperadoresAsignacion_
 - _P08_FuncionesTrigonometricas_
 - _P09_DividirEnCifras_
-## Actividad 3
+## Practica 1
 - _p10_HipotenusaTriangulo_
 - _p11_CalcularAngulo_
 - _p12_ConvertirTemperatura_
 - _p13_VolumenCilindro_
 - _p14_CalculoTiempo_
 - _p15_ConvertirADolares_
+## Actividad 3
+- _p16_TrabajandoEnteros_
+- _p17_TrabajandoFlotantes_
+- _p18_TrabajandoConstantes_
+- _p19_TrabajandoCaracteres_
+- _p20_ConversionTipos_

@@ -13,7 +13,7 @@ public class _p11_CalcularAngulo {
 
         suma = angulo+angulo2;
         resta = angulo3-suma;
-        System.out.printf("El tercer lado del triangulo es de %.2f\n", resta);
+        System.out.printf("El tercer angulo del triangulo es de %.2f\n", resta);
 
 
 
