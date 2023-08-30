@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _P09_DividirEnCifras {
+public class _p09_DividirEnCifras {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush();
 

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _P21_VerificarNumero {
+public class _p21_VerificarNumero {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush();
 

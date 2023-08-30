@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _P07_OperadoresAsignacion {
+public class _p07_OperadoresAsignacion {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J"); System.out.flush(); // Limpia la pantalla de la consola
         

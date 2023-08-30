@@ -3,7 +3,7 @@
 import java.io.Console;
 import java.util.Scanner;
 
-public class _P24_PagaTrabajadorV2 {
+public class _p24_PagaTrabajadorV2 {
     public static void main(String[] args) {
         int horas, extr=0;
         float paga, total;

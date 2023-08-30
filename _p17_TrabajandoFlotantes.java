@@ -5,7 +5,7 @@ public class _p17_TrabajandoFlotantes {
         float num1=423.45f;
         float num2=123f;
         float num3=1.94e-8f;
-        float num4=122332123.434398d;
+        float num4=(float) 122332123.434398d;
         double num5=.3456;
 
         System.out.print("\033[H\033[2J"); System.out.flush();

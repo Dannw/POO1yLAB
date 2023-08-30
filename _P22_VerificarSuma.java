@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class _P22_VerificarSuma {
+public class _p22_VerificarSuma {
     public static void main(String[] args) {
       System.out.print("\033[H\033[2J");System.out.flush();
       int num1, num2, num3;
