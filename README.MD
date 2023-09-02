@@ -36,7 +36,15 @@
 - _p27_AceptarEstudiante_
 - _p28_LeyDeNewton_
 ## Actividad 6
-- _p29:_Calculadora_
+- _p29_Calculadora_
 - _p30_DiaSemana_
 - _p31_NumerosRomanos_
 - _p32_PagoEstacionamiento_
+## Practica 2
+- _p33_NumerosConsecutivos_
+- _p34_NumeroMayor_
+- _p35_ContinentesMundo_
+- _p36_CompraPizza_
+- _p37_CalculoNotas_
+- _p38_AceptarEstudianteV2_
+

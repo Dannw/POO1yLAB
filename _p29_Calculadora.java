@@ -9,7 +9,7 @@ public class _p29_Calculadora {
     Scanner obj = new Scanner(System.in);
 
     System.out.print("\033[H\033[2J");System.out.flush();
-    System.out.println("Efectua la operacipm matemática elegida entre dos numeros");
+    System.out.println("Efectua la operación matemática elegida entre dos numeros");
     System.out.print("Dame el numero 1: "); n1 = obj.nextDouble();
     System.out.print("Dame el numero 2: "); n2 = obj.nextDouble();
 

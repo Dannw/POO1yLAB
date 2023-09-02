@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class _p31_NumerosRomanos {
     public static void main(String[] args) {
         System.out.print("\033[H\033[2J");
-        System.out.print("Convierte un numero entre 1 y 10 a numero roman\n");
+        System.out.print("Convierte un numero entre 1 y 10 a numero romano\n");
         System.out.print("Dame el numero: ");
         int num = new Scanner(System.in).nextInt();
 
