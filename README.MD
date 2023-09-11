@@ -52,5 +52,16 @@
 - _p45_ImparesDescendente_
 - _p46_TablaConversion_
 - _p47_ConjeturaCollatz_
+## Practica 3
+- _p48_ImparesAcendente_
+- _p49_ParesDescendente_
+- _p50_ConversionTemperaturas_
+- _p51_SerieFibonaci_
+## Actividad 9
+- _p52_Numeros1aN_
+- _p53_NumerosNa1_
+- _p54_ArribaAbajo_
+- _p55_SumaParesImpares_
+- _p56_SumaPromedio_
 
 
