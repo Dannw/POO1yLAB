@@ -63,5 +63,10 @@
 - _p54_ArribaAbajo_
 - _p55_SumaParesImpares_
 - _p56_SumaPromedio_
+## Actividad 10
+- _p57_TablasMultiplicar_
+- _p58_Piramide_
+- _p59_FactorialNumeros_
+- _p60_SumaTerminos_
 
 
