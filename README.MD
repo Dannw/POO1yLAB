@@ -68,5 +68,16 @@
 - _p58_Piramide_
 - _p59_FactorialNumeros_
 - _p60_SumaTerminos_
+## Practica 4
+- _p61_SecuenciaNumeros1_
+- _p62_SecuenciaNumeros2_
+- _p63_SumaTerminos1_
+- _p64_SumaTerminos2_
+## Actividad 11
+- _p65_PromedioNumeros_
+- _p66_ConversionTemperaturas_
+- _p67_SumaRango_
+- _p68_TablaMultiplicar_
+- _p69_CalificacionLetra_
 
 
