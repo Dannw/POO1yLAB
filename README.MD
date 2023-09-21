@@ -79,5 +79,11 @@
 - _p67_SumaRango_
 - _p68_TablaMultiplicar_
 - _p69_CalificacionLetra_
+## Actividad 12
+- _p70_MayorTresNumeros_
+- _p71_SumaDigitos_
+- _p72_SumaParesImpares_
+- _p73_Factorial_
+- _p74_CuadroCaracter_
 
 
