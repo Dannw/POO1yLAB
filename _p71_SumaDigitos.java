@@ -3,6 +3,8 @@
 import java.util.Scanner;
 
 public class _p71_SumaDigitos {
+    
+    // Función
     public static int SumaDigitos(int n) {
         int suma = 0, digito;
         while (n != 0) {

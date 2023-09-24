@@ -85,5 +85,11 @@
 - _p72_SumaParesImpares_
 - _p73_Factorial_
 - _p74_CuadroCaracter_
+## Practica 5
+- _p75_NumeroMenor_
+- _p76_DiaSemana_ 
+- _p77_MedidasLongitud_ 
+- _p78_SumaMultiplos_
+- _p79_Angulo_
 
 
