@@ -47,6 +47,13 @@
 - _p36_CompraPizza_
 - _p37_CalculoNotas_
 - _p38_AceptarEstudianteV2_
+## Actividad 7
+- _p39_Numeros1a100_
+- _p40_Numeros100a1_
+- _p41_ProcesaCalificaciones_
+- _p42_TablaMultiplicar_
+- _p43_ConteoNumeros_
+
 ## Actividad 8
 - _p44_ParesAscendente_
 - _p45_ImparesDescendente_
