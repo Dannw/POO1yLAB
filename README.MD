@@ -98,5 +98,11 @@
 - _p77_MedidasLongitud_ 
 - _p78_SumaMultiplos_
 - _p79_Angulo_
+## Actividad 13
+- _p81_InicializaArregloNumeros_
+- _p82_InicializaArregloCadenas_
+- _p83_InicializaNombresEdades_
+- _p84_LeerArregloCalificaciones_
+- _p85_NombresEdades_
 
 
