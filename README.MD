@@ -104,5 +104,9 @@
 - _p83_InicializaNombresEdades_
 - _p84_LeerArregloCalificaciones_
 - _p85_NombresEdades_
-
+## Actividad 14
+- _p86_ArregloMostrar_
+- _p87_ArregloTemperatura_
+- _p88_Aleatorios_
+- _p89_ArregloAleatorios_
 
