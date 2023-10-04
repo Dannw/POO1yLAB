@@ -109,4 +109,13 @@
 - _p87_ArregloTemperatura_
 - _p88_Aleatorios_
 - _p89_ArregloAleatorios_
-
+## Practica 6
+- _p90_Temperaturas_
+- _p91_MayoresPromedio_
+- _p92_MayorMenor_
+- _p93_ParesImpares_ 
+## Actividad 15
+- _p94_Empleado01_
+- _p95_Empleado02_
+- _p96_Empleado03_
+- _p97_Empleado04_
