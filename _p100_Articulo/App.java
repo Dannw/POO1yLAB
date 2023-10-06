@@ -27,6 +27,6 @@ public class App {
             System.out.println(articulo.toString());
             total += articulo.getTotal();
         }
-        System.out.println("Total venta : " + total);
+        System.out.println("Total de venta : " + total);
     }
 }

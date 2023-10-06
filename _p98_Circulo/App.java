@@ -9,7 +9,7 @@ public class App {
         c2.setRadio(12.45);
 
         System.out.println(c2.toString());
-        System.out.println("El radio es    : " + c2.getRadio() );
+        System.out.println("radio es    : " + c2.getRadio() );
         System.out.println("Area           = " + c1.getArea() );
         System.out.println("Circunferencia = " + c1.getCircunferencia() );
 
