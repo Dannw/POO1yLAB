@@ -29,8 +29,8 @@ public class App {
 
         }
         System.out.println("Promedio edades: " + (suma/empleados.size()));
-        System.out.println("Hombres: " + th + "Mujeres: " + tm);
-        System.out.println("Solteros: " + tc + "Casados: " + tnc);
+        System.out.println("Hombres: " + th + " Mujeres: " + tm);
+        System.out.println("Solteros: " + tc + " Casados: " + tnc);
     }
 
 }

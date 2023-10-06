@@ -44,7 +44,7 @@ public class Empleado {
     }
     @Override
     public String toString() {
-        return "Empleado";
+        return "Empleado [Nombre=" + Nombre + ", Edad=" + Edad + ", Sexo=" + (Sexo=='H'?"Hombre":"Mujer") + ", casado=" + (Casado?"Casado":"Libre") + "]";
     }
     
 }
