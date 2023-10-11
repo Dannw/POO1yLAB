@@ -119,3 +119,11 @@
 - _p95_Empleado02_
 - _p96_Empleado03_
 - _p97_Empleado04_
+## Practica 7
+- _p98_Circulo_
+- _p99_Rectangulo_
+- _p100_Articulo_
+## Actividad 16 
+- _p101_TrabajoPersona_
+- _p102_AutorLibro_
+- _p103_ClienteFactura_
