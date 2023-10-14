@@ -127,3 +127,6 @@
 - _p101_TrabajoPersona_
 - _p102_AutorLibro_
 - _p103_ClienteFactura_
+## Actividad 17
+- _p106_Persona_
+- _p107_Forma_
