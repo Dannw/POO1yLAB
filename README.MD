@@ -127,6 +127,9 @@
 - _p101_TrabajoPersona_
 - _p102_AutorLibro_
 - _p103_ClienteFactura_
+## Practica 8
+- _p104_PuntoCirculo_
+- _p105_PuntoTriangulo_
 ## Actividad 17
 - _p106_Persona_
 - _p107_Forma_
