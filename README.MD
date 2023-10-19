@@ -136,4 +136,8 @@
 ## Practica 9
 - _p108_Vehiculo_
 - _p109_FormaV2_
+## Actividad 17
+- _p110_CuentaBancariaV1
+## Actividad 18
+- _p111_CuentaBancariaV2
 
