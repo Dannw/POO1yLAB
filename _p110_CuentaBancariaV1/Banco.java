@@ -1,19 +1,19 @@
 package _p110_CuentaBancariaV1;
 
 import java.util.ArrayList;
-
 public class Banco {
     private String Nombre;
     private String Domicilio;
     private ArrayList<Cliente> Cliente;
-    public Banco() {
-        Cliente = new ArrayList<>(); 
+
+    public Banco(){
+        Cliente = new ArrayList<>(); //reserva espacio en memoria para el arreglo 
+
     }
     public Banco(String nombre, String domicilio) {
-        this();
+        this(); //llama al constructor vacio
         Nombre = nombre;
         Domicilio = domicilio;
-        
     }
     public String getNombre() {
         return Nombre;
@@ -30,7 +30,11 @@ public class Banco {
     public ArrayList<Cliente> getCliente() {
         return Cliente;
     }
-    public void agregarCliente(Cliente cliente) {
+    public void setCliente(ArrayList<Cliente> cliente) {
+        Cliente = cliente;
+    }
+    
+    public void AgregarCliente (Cliente cliente){
         Cliente.add(cliente);
     }
     @Override
@@ -38,7 +42,5 @@ public class Banco {
         return "Banco [Nombre=" + Nombre + ", Domicilio=" + Domicilio + ", Cliente=" + Cliente.size() + "]";
     }
     
-    
-
     
 }
