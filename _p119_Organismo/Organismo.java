@@ -6,5 +6,19 @@ public class Organismo {
     public Organismo(String nombre) {
         Nombre = nombre;
     }
-    public String getNombre
+
+    public String getNombre() {
+        return Nombre;
+    }
+
+    public void respiracion() {
+        System.out.println("Respirando...");
+    }
+    public void movimiento() {
+        System.out.println("Moviéndose...");
+    }
+    public void crecimiento() {
+        System.out.println("Creciendo...");
+    }
+
 }

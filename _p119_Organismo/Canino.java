@@ -1,5 +1,6 @@
 package _p119_Organismo;
 
-public class Canino {
-    
+public interface Canino extends Animales{
+    public void correr();
+    public void cuatroPatas();
 }

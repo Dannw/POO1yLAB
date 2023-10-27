@@ -1,6 +1,6 @@
 package _p119_Organismo;
 
-public class Animales {
-    
-    
+public interface Animales {
+    public void multiCelular();
+    public void sangreCaliente();
 }
