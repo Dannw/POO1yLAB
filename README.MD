@@ -142,4 +142,27 @@
 - _p111_CuentaBancariaV2_
 ## Practica 10
 _p112_ControlVentas_
+## Actividad 20
+- _p114_Animal_
+- _p115_Telefono_
+- _p116_Juego_
+- _p117_FiguraGeometrica_
+## Actividad 21
+- _p118_Calculadora_
+- _p119_Organismo_
+## Practica 11
+- _p120_Vehiculo
+## Actividad 22
+- _p121_Excepcion1_
+- _p122_Excepcion2_
+- _p123_Excepcion3_
+- _p124_Excepcion4_
+- _p125_Excepcion5_
+- _p126_Excepcion6_
+- _p127_MiExcepcion_
+## Practica 12
+- _p128_ExcepcionRaiz
+- _p129_ExcepcionDulces
+- _p130_ExcepcionEdades
+- _p131_ExcepcionTemperatura
 
