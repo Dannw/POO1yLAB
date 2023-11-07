@@ -161,8 +161,19 @@ _p112_ControlVentas_
 - _p126_Excepcion6_
 - _p127_MiExcepcion_
 ## Practica 12
-- _p128_ExcepcionRaiz
-- _p129_ExcepcionDulces
-- _p130_ExcepcionEdades
-- _p131_ExcepcionTemperatura
+- _p128_ExcepcionRaiz_
+- _p129_ExcepcionDulces_
+- _p130_ExcepcionEdades_
+- _p131_ExcepcionTemperatura_
+## Actividad 23
+- _p132_Archivos1_
+- _p133_Archivos2_
+- _p134_Archivos3_
+- _p135_Archivos4_
+- _p136_Archivos5_
+## Practica 13
+- _p137_ArchivoMunicipios_
+- _p138_ArchivoMaterias_
+- _p139_ArchivoEstudiante_
+
 
