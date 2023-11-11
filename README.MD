@@ -175,5 +175,9 @@ _p112_ControlVentas_
 - _p137_ArchivoMunicipios_
 - _p138_ArchivoMaterias_
 - _p139_ArchivoEstudiante_
+## Actividad 24
+- _p140_HolaMundoGUI
+- _p141_AreaTrianguloGUI
+- _p142_LeyDeNewtonGUI
 
 
