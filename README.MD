@@ -182,5 +182,12 @@ _p112_ControlVentas_
 ## Practica 14
 - _p143_PagaTrabajador_
 - _p144_Temperaturas_
+## Actividad 25
+- _p145_HolaMundoGUI_V1_
+## Actividad 26
+- _p146_HolaMundoGUI_V2_
+## Tercer Examen Parcial
+- _p147_TercerExamenParcial_
+
 
 

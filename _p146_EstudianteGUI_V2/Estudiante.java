@@ -1,4 +1,4 @@
-package _p145_EstudianteGUI_V1;
+package _p146_EstudianteGUI_V2;
 
 import java.io.Serializable;
 
@@ -7,6 +7,9 @@ public class Estudiante implements Serializable {
     int Edad;
     double Peso;
     String Correo;
+
+    public Estudiante() {
+    }
 
     public Estudiante(String nombre, int edad, double peso, String correo) {
         Nombre = nombre;
